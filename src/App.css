@@ -1,0 +1,49 @@
+.bodys{
+  margin: 0 auto;
+  height: 100vh;
+  width: 100vh;
+  background-color: #494947;
+
+}
+
+.back{
+  background: linear-gradient(75deg, #906466, #DDC8C4);
+}
+
+.calc{
+  background-color: #A7ADC6;
+  height: 10vh;
+  text-align: right;
+  font-size: 55px;
+  font-family: 'Allerta Stencil';
+  overflow-y: hidden;
+  overflow-x: scroll;
+}
+::-webkit-scrollbar {
+  width: 8px;   
+  height: 8px;
+}
+
+button{
+  height: 20vh;
+  width: 20vh;
+  font-size: 55px;
+  background: linear-gradient(75deg, #BEC5AD, #A4B494);
+}
+
+.nums{
+  position: absolute;
+  bottom: 0px;
+}
+
+.c{
+  height: 10vh;
+  width: 15vh;
+  font-size: 30px;
+}
+
+.eq{
+  height: 10vh;
+  width: 40vh;
+  font-size: 30px;
+}
