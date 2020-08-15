@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import './App.css';
-import dero from './dero.js';
-import { parenthes, parentheses, count1, count2 } from './parenthes1.js';
+import dero from './functions/dero.js';
+import { parenthes, parentheses, count1, count2 } from './functions/parenthes1.js';
 
 
 
