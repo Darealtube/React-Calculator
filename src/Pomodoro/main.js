@@ -1,3 +1,12 @@
-var a = 1;
+import React from 'react';
 
-console.log(1);
+export default Pomodoro(){
+
+ return(
+   <div>
+      <body>
+        <p>lol</p>
+      </body>
+   </div>
+ )
+}
