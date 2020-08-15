@@ -1,4 +1,3 @@
-# React Projects
 
 # React Hook Calculator
 
@@ -20,10 +19,3 @@
 
     npm install && npm start
     
-# Other Pending Projects
-
-2. Pomodoro Clock (Currently Working On...)
-3. Drum Pad
-4. Random Quote Machine
-5. Markdown Preview
-6. Personal Portfolio
